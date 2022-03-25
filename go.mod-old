@@ -1,4 +1,4 @@
-module github.com/edujudici/imersao-golang-kafka
+module github.com/codeedu/esquenta-imersao-go-course
 
 go 1.17
 

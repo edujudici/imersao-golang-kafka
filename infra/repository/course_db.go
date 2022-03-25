@@ -2,7 +2,7 @@ package repository
 
 import (
 	"database/sql"
-	"github.com/codeedu/esquenta-imersao-go-course/entity"
+	"github.com/edujudici/imersao-golang-kafka/entity"
 )
 
 type CourseMySQLRepository struct {

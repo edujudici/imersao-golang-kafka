@@ -4,10 +4,10 @@ import (
 	"database/sql"
 	"encoding/json"
 	"fmt"
-	"github.com/codeedu/esquenta-imersao-go-course/infra/kafka"
-	repository2 "github.com/codeedu/esquenta-imersao-go-course/infra/repository"
-	usecase2 "github.com/codeedu/esquenta-imersao-go-course/usecase"
 	ckafka "github.com/confluentinc/confluent-kafka-go/kafka"
+	"github.com/edujudici/imersao-golang-kafka/infra/kafka"
+	repository2 "github.com/edujudici/imersao-golang-kafka/infra/repository"
+	usecase2 "github.com/edujudici/imersao-golang-kafka/usecase"
 	_ "github.com/go-sql-driver/mysql"
 	"log"
 )

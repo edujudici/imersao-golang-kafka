@@ -1,7 +1,7 @@
 package usecase
 
 import (
-	"github.com/codeedu/esquenta-imersao-go-course/entity"
+	"github.com/edujudici/imersao-golang-kafka/entity"
 	"github.com/google/uuid"
 )
 
